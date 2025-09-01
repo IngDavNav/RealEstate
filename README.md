@@ -290,7 +290,3 @@ dotnet test RealEstate.Tests -v n
 * Observabilidad: OpenTelemetry (traces/métricas).
 
 ---
-
-## Licencia
-
-MIT (o la que prefieras).
